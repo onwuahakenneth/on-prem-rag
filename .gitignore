@@ -1,0 +1,94 @@
+.vscode/
+.env
+.env.local
+data/
+vector_store/
+src/local_index
+codealike.json
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Logs and temp
+*.log
+*.tmp
+*.swp
+*.swo
+*.bak
+
+# PyInstaller
+*.spec
+
+# Packaging / distribution
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+MANIFEST
+
+# Unit test / coverage
+htmlcov/
+.tox/
+.nox/
+.coverage
+.cache/
+.pytest_cache/
+.coverage.*
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# IDE and editor-specific
+.vscode/
+.idea/
+.ropeproject
+.spyderproject
+.spyproject
+.ruff_cache
+.gradio
+
+# Docker
+**/__pycache__/
+*.pid
+
+# Python environment tools
+.pdm.toml
+.pdm.lock
+__pypackages__/
+
+# AutoML / ML
+checkpoints/
+*.ckpt
+*.hdf5
+
+# MLOps
+kubeflow_pipeline_output/
+kubeflow_logs/
+
+# Notebooks
+.ipynb_checkpoints
+
+# Type checkers
+.mypy_cache/
+.pytype/
+.pyre/
+
+# Misc
+.DS_Store
